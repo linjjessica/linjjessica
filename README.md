@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hello World! My name is Jessica Lin and I'm a 2nd year Computer Science and Business Administration student @ UC Irvine.
 
+Right now, I'm the Director of Technology for DSP where I leverage Google Sheet APIs, React, and Node to manage the fraternity's website. My largest impact has come from transforming the Google Sheet APIs to be more efficient for future DOTs!
+
+I'm currently working on gaining knowledge in larger-scale technologies, like React.js and Node.js. I'm always trying to expand my knowledge and apply what I've learned. To play around with these technologies, I've been building my own [personal portfolio website](https://linjjessica.github.io/). Feel free to check it out!
+
+### Please reach out for a coffee chat! Find me on [LinkedIn](https://www.linkedin.com/in/jjessicalin/).
+
+I'm enthusiastic about meeting new people and exchanging ideas. Whether you're interested in tech, startups, or just want to chat, I'm open to connecting. Your insights and experiences can greatly help me grow, and I'm happy to share my learning journey with you as well. Looking forward to our conversation!
 <!--
 **linjjessica/linjjessica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
