@@ -1,8 +1,8 @@
 ### Hello World! My name is Jessica Lin and I'm a 3rd year Computer Science and Business Administration student @ UC Irvine.
 
-Right now, I'm the Director of Technology for DSP where I leverage Google Sheet APIs, React, and Node to manage the fraternity's website. My largest impact has come from transforming the Google Sheet APIs to be more efficient for future DOTs!
+My experiences include SWE @ Troicom and SWE @ Truckxi. My on campus involvements include Director of Technology and Vice President of Community Service @ DSP, Mentor and past mentee for Undergraduate Business Association, and Investment Team Member @ ITG! 
 
-I'm currently working on gaining knowledge in larger-scale technologies, like React.js and Node.js. I'm always trying to expand my knowledge and apply what I've learned. To play around with these technologies, I've been building my own [personal portfolio website](https://linjjessica.github.io/). Feel free to check it out!
+I've built my own [personal portfolio website](https://linjjessica.github.io/). Feel free to check it out!
 
 ### Please reach out for a coffee chat! Find me on [LinkedIn](https://www.linkedin.com/in/jjessicalin/).
 
