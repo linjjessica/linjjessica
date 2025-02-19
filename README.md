@@ -1,6 +1,6 @@
 ### Hello World! My name is Jessica Lin and I'm a 3rd year Computer Science and Business Administration student @ UC Irvine.
 
-My experiences include SWE @ Troicom and SWE @ Truckxi. My on campus involvements include Director of Technology and Vice President of Community Service @ DSP, Mentor and past mentee for Undergraduate Business Association, and Investment Team Member @ ITG! 
+My experiences include SWE @ Troicom and SWE @ Truckxi. My on campus involvements include Director of Technology and Vice President of Community Service @ DSP, Mentor and past mentee @ Undergraduate Business Association, and Investment Team Member @ ITG! 
 
 I've built my own [personal portfolio website](https://linjjessica.github.io/). Feel free to check it out!
 
