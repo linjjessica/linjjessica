@@ -1,4 +1,4 @@
-### Hello World! My name is Jessica Lin and I'm a 2nd year Computer Science and Business Administration student @ UC Irvine.
+### Hello World! My name is Jessica Lin and I'm a 3rd year Computer Science and Business Administration student @ UC Irvine.
 
 Right now, I'm the Director of Technology for DSP where I leverage Google Sheet APIs, React, and Node to manage the fraternity's website. My largest impact has come from transforming the Google Sheet APIs to be more efficient for future DOTs!
 
