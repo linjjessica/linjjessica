@@ -1,12 +1,11 @@
 ### Hello World! My name is Jessica Lin and I'm a 3rd year Computer Science and Business Administration student @ UC Irvine.
 
-My experiences include SWE @ Troicom and SWE @ Truckxi. My on campus involvements include Director of Technology and Vice President of Community Service @ DSP, Mentor and past mentee @ Undergraduate Business Association, and Investment Team Member @ ITG! 
+My experiences include SWE intern @ Wave Automate, Founding Engineer @ Scout, previous SWE Intern @ EY, and previous SWE intern @ Troicom.
 
-I've built my own [personal portfolio website](https://linjjessica.github.io/). Feel free to check it out!
+I've built my own [personal portfolio website]([https://linjjessica.github.io/](https://jjessicalin.vercel.app/)). Feel free to check it out!
 
 ### Please reach out for a coffee chat! Find me on [LinkedIn](https://www.linkedin.com/in/jjessicalin/).
 
-I'm enthusiastic about meeting new people and exchanging ideas. Whether you're interested in tech, startups, or just want to chat, I'm open to connecting. Your insights and experiences can greatly help me grow, and I'm happy to share my learning journey with you as well. Looking forward to our conversation!
 <!--
 **linjjessica/linjjessica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
